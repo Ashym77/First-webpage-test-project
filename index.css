@@ -1,0 +1,28 @@
+body{
+
+    background-color: rgb(18, 243, 18);
+}
+
+.Danger-Button{
+
+    background-color: rgb(186, 21, 21);
+    color: rgb(0, 0, 0);
+    border: red; 
+   height:  36px; 
+   width: 106px;
+  cursor: pointer; 
+
+
+
+}
+
+.Random-Button{
+background-color: rgb(49, 7, 140);
+color: rgb(214, 17, 139);
+cursor: pointer;
+height: 36px;
+width: 106px;
+
+}
+
+
