@@ -1,7 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&display=swap');
+
+
+
+
+.root{
+
+--dark:black;
+
+--font1:'Roboto'
+
+}
+*{
+    margin: 0;
+    padding: 0;
+    
+    }
 
 
 body{
 
 
     background-color: turquoise;
+}
+
+
+h1{
+
+    color: var(--dark) ;
+}
+
+
+p{
+
+    font-family: var(--font1);
+  
+}
+
+.container1{
+
+    background-color: gold;
+    width: 50%;
+    
+   
+ border-style: solid;
+ border-color: red;
+ border-width: 10px;
+
+}
+
+
+.container2{
+
+
+   background-color: green;
+   width: 100%;
 }
